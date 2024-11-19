@@ -3,5 +3,4 @@
 <br>
 <br>
 SAMPLE HP
-  https://script.google.com/a/macros/hjs.ed.jp/s/AKfycbzTo3nweloauy20CYfQIMKUKcKRCh7ngH0pmokFRWtTNVA2fAZa0tdKZ_RrgtEyXkR0/exec
-
+  https://script.google.com/macros/s/AKfycbx0Td14kObAA9-m3yR7sy0NEvMEPjKQ58MuZ3NIY-QleixB_ZrlPghoLeRlhdYNjteM/exec
